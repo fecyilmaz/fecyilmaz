@@ -68,14 +68,14 @@
 
 ## 🔥 GitHub Streak:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fecyilmaz&theme=dark&hide_border=false" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fecyilmaz&theme=dracula" />
 </div>
 
 ---
@@ -115,4 +115,4 @@
 </div>
 
 ---
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From fecyilmaz (https://github.com/fecyilmaz)
