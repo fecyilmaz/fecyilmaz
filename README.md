@@ -15,7 +15,7 @@
 
 ## 🔥 About Me
 
-- 🌱 I'm currently learning **** and **AI Technologies**
+- 🌱 I'm currently learning **Data Analysis** and **AI Technologies**
 - 💬 Ask me about **JavaScript, Python, Django, Node.js, Promt Engineering and Web Development**
 - 📫 How to reach me: **fecy.network@gmail.com**
 - ⚡ Fun fact: **I love coding late at night with good coffee ☕**
