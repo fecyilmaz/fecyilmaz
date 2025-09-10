@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Activity Graph:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fecyilmaz&theme=react-dark" />
 </div>
 
 ---
