@@ -73,13 +73,6 @@
 
 ---
 
-## 📈 Contribution Graph:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fecyilmaz&theme=dracula" />
-</div>
-
----
-
 ## 🌐 Connect with me:
 
 <div align="center">
