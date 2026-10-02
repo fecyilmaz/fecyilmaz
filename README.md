@@ -17,12 +17,12 @@
 
 - 💼 **BI Specialist @ AloTech** — building analytics for a multi-tenant contact center platform
 - 🏗️ Designed ETL pipelines serving **1,500+ tenant namespaces** on GCP (Cloud Run, Cloud Scheduler, BigQuery)
-- 💸 Cut daily Looker Studio reporting costs by **90%** and view query volume from **15 GB → 3 GB**
+- 💸 Cut daily Looker Studio reporting costs by **90%** and view query volume up to **200%**
 - 📊 Focus areas: **BigQuery SQL, data modeling, contact center analytics (IVR, agent, chat, CSAT)**
 - 🌱 Currently exploring **dbt, Analytics Engineering and AI technologies**
 - 💬 Ask me about **BigQuery, SQL optimization, Looker Studio, Python and GCP**
-- 📫 How to reach me: **fecy.network@gmail.com**
-- ⚡ Fun fact: **I love coding late at night with good coffee ☕**
+- 📫 How to reach me: **fedaiengincanyilmaz@gmail.com**
+- ⚡ Fun fact: **I love coding mornings with good coffee ☕**
 
 ---
 
